@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub Repositories\\DotNetCoreAzureBlobFileUpload\\DotNetCoreControllerForAzureBlobFileUpload\\AzureBlobFileUpload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8DF307-FEC5-4FB5-BBE6-823649151F88}|AzureBlobFileUpload\\AzureBlobFileUpload.csproj|c:\\github repositories\\dotnetcoreazureblobfileupload\\dotnetcorecontrollerforazureblobfileupload\\azureblobfileupload\\azureblobfileupload\\helperclasses\\classes\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8DF307-FEC5-4FB5-BBE6-823649151F88}|AzureBlobFileUpload\\AzureBlobFileUpload.csproj|solutionrelative:azureblobfileupload\\helperclasses\\classes\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8DF307-FEC5-4FB5-BBE6-823649151F88}|AzureBlobFileUpload\\AzureBlobFileUpload.csproj|c:\\github repositories\\dotnetcoreazureblobfileupload\\dotnetcorecontrollerforazureblobfileupload\\azureblobfileupload\\azureblobfileupload\\data\\fileuploaddatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8DF307-FEC5-4FB5-BBE6-823649151F88}|AzureBlobFileUpload\\AzureBlobFileUpload.csproj|solutionrelative:azureblobfileupload\\data\\fileuploaddatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8DF307-FEC5-4FB5-BBE6-823649151F88}|AzureBlobFileUpload\\AzureBlobFileUpload.csproj|c:\\github repositories\\dotnetcoreazureblobfileupload\\dotnetcorecontrollerforazureblobfileupload\\azureblobfileupload\\azureblobfileupload\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8DF307-FEC5-4FB5-BBE6-823649151F88}|AzureBlobFileUpload\\AzureBlobFileUpload.csproj|solutionrelative:azureblobfileupload\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8DF307-FEC5-4FB5-BBE6-823649151F88}|AzureBlobFileUpload\\AzureBlobFileUpload.csproj|c:\\github repositories\\dotnetcoreazureblobfileupload\\dotnetcorecontrollerforazureblobfileupload\\azureblobfileupload\\azureblobfileupload\\helperclasses\\classes\\multiplefileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8DF307-FEC5-4FB5-BBE6-823649151F88}|AzureBlobFileUpload\\AzureBlobFileUpload.csproj|solutionrelative:azureblobfileupload\\helperclasses\\classes\\multiplefileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8DF307-FEC5-4FB5-BBE6-823649151F88}|AzureBlobFileUpload\\AzureBlobFileUpload.csproj|c:\\github repositories\\dotnetcoreazureblobfileupload\\dotnetcorecontrollerforazureblobfileupload\\azureblobfileupload\\azureblobfileupload\\model\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8DF307-FEC5-4FB5-BBE6-823649151F88}|AzureBlobFileUpload\\AzureBlobFileUpload.csproj|solutionrelative:azureblobfileupload\\model\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8DF307-FEC5-4FB5-BBE6-823649151F88}|AzureBlobFileUpload\\AzureBlobFileUpload.csproj|c:\\github repositories\\dotnetcoreazureblobfileupload\\dotnetcorecontrollerforazureblobfileupload\\azureblobfileupload\\azureblobfileupload\\model\\fileuploaddatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8DF307-FEC5-4FB5-BBE6-823649151F88}|AzureBlobFileUpload\\AzureBlobFileUpload.csproj|solutionrelative:azureblobfileupload\\model\\fileuploaddatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8DF307-FEC5-4FB5-BBE6-823649151F88}|AzureBlobFileUpload\\AzureBlobFileUpload.csproj|c:\\github repositories\\dotnetcoreazureblobfileupload\\dotnetcorecontrollerforazureblobfileupload\\azureblobfileupload\\azureblobfileupload\\helperclasses\\interfaces\\iblobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8DF307-FEC5-4FB5-BBE6-823649151F88}|AzureBlobFileUpload\\AzureBlobFileUpload.csproj|solutionrelative:azureblobfileupload\\helperclasses\\interfaces\\iblobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8DF307-FEC5-4FB5-BBE6-823649151F88}|AzureBlobFileUpload\\AzureBlobFileUpload.csproj|c:\\github repositories\\dotnetcoreazureblobfileupload\\dotnetcorecontrollerforazureblobfileupload\\azureblobfileupload\\azureblobfileupload\\model\\fileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8DF307-FEC5-4FB5-BBE6-823649151F88}|AzureBlobFileUpload\\AzureBlobFileUpload.csproj|solutionrelative:azureblobfileupload\\model\\fileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileUpload.cs",
+              "DocumentMoniker": "C:\\GitHub Repositories\\DotNetCoreAzureBlobFileUpload\\DotNetCoreControllerForAzureBlobFileUpload\\AzureBlobFileUpload\\AzureBlobFileUpload\\Model\\FileUpload.cs",
+              "RelativeDocumentMoniker": "AzureBlobFileUpload\\Model\\FileUpload.cs",
+              "ToolTip": "C:\\GitHub Repositories\\DotNetCoreAzureBlobFileUpload\\DotNetCoreControllerForAzureBlobFileUpload\\AzureBlobFileUpload\\AzureBlobFileUpload\\Model\\FileUpload.cs",
+              "RelativeToolTip": "AzureBlobFileUpload\\Model\\FileUpload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:18:39.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultipleFileUpload.cs",
+              "DocumentMoniker": "C:\\GitHub Repositories\\DotNetCoreAzureBlobFileUpload\\DotNetCoreControllerForAzureBlobFileUpload\\AzureBlobFileUpload\\AzureBlobFileUpload\\HelperClasses\\Classes\\MultipleFileUpload.cs",
+              "RelativeDocumentMoniker": "AzureBlobFileUpload\\HelperClasses\\Classes\\MultipleFileUpload.cs",
+              "ToolTip": "C:\\GitHub Repositories\\DotNetCoreAzureBlobFileUpload\\DotNetCoreControllerForAzureBlobFileUpload\\AzureBlobFileUpload\\AzureBlobFileUpload\\HelperClasses\\Classes\\MultipleFileUpload.cs",
+              "RelativeToolTip": "AzureBlobFileUpload\\HelperClasses\\Classes\\MultipleFileUpload.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAEwDwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:18:08.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileUploadDataDto.cs",
+              "DocumentMoniker": "C:\\GitHub Repositories\\DotNetCoreAzureBlobFileUpload\\DotNetCoreControllerForAzureBlobFileUpload\\AzureBlobFileUpload\\AzureBlobFileUpload\\Model\\FileUploadDataDto.cs",
+              "RelativeDocumentMoniker": "AzureBlobFileUpload\\Model\\FileUploadDataDto.cs",
+              "ToolTip": "C:\\GitHub Repositories\\DotNetCoreAzureBlobFileUpload\\DotNetCoreControllerForAzureBlobFileUpload\\AzureBlobFileUpload\\AzureBlobFileUpload\\Model\\FileUploadDataDto.cs",
+              "RelativeToolTip": "AzureBlobFileUpload\\Model\\FileUploadDataDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:13:42.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\GitHub Repositories\\DotNetCoreAzureBlobFileUpload\\DotNetCoreControllerForAzureBlobFileUpload\\AzureBlobFileUpload\\AzureBlobFileUpload\\HelperClasses\\Classes\\BlobService.cs",
+              "RelativeDocumentMoniker": "AzureBlobFileUpload\\HelperClasses\\Classes\\BlobService.cs",
+              "ToolTip": "C:\\GitHub Repositories\\DotNetCoreAzureBlobFileUpload\\DotNetCoreControllerForAzureBlobFileUpload\\AzureBlobFileUpload\\AzureBlobFileUpload\\HelperClasses\\Classes\\BlobService.cs",
+              "RelativeToolTip": "AzureBlobFileUpload\\HelperClasses\\Classes\\BlobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:06:53.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileUploadDataContext.cs",
+              "DocumentMoniker": "C:\\GitHub Repositories\\DotNetCoreAzureBlobFileUpload\\DotNetCoreControllerForAzureBlobFileUpload\\AzureBlobFileUpload\\AzureBlobFileUpload\\Data\\FileUploadDataContext.cs",
+              "RelativeDocumentMoniker": "AzureBlobFileUpload\\Data\\FileUploadDataContext.cs",
+              "ToolTip": "C:\\GitHub Repositories\\DotNetCoreAzureBlobFileUpload\\DotNetCoreControllerForAzureBlobFileUpload\\AzureBlobFileUpload\\AzureBlobFileUpload\\Data\\FileUploadDataContext.cs",
+              "RelativeToolTip": "AzureBlobFileUpload\\Data\\FileUploadDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:05:39.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBlobService.cs",
+              "DocumentMoniker": "C:\\GitHub Repositories\\DotNetCoreAzureBlobFileUpload\\DotNetCoreControllerForAzureBlobFileUpload\\AzureBlobFileUpload\\AzureBlobFileUpload\\HelperClasses\\Interfaces\\IBlobService.cs",
+              "RelativeDocumentMoniker": "AzureBlobFileUpload\\HelperClasses\\Interfaces\\IBlobService.cs",
+              "ToolTip": "C:\\GitHub Repositories\\DotNetCoreAzureBlobFileUpload\\DotNetCoreControllerForAzureBlobFileUpload\\AzureBlobFileUpload\\AzureBlobFileUpload\\HelperClasses\\Interfaces\\IBlobService.cs",
+              "RelativeToolTip": "AzureBlobFileUpload\\HelperClasses\\Interfaces\\IBlobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:03:46.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileUploadController.cs",
+              "DocumentMoniker": "C:\\GitHub Repositories\\DotNetCoreAzureBlobFileUpload\\DotNetCoreControllerForAzureBlobFileUpload\\AzureBlobFileUpload\\AzureBlobFileUpload\\Controllers\\FileUploadController.cs",
+              "RelativeDocumentMoniker": "AzureBlobFileUpload\\Controllers\\FileUploadController.cs",
+              "ToolTip": "C:\\GitHub Repositories\\DotNetCoreAzureBlobFileUpload\\DotNetCoreControllerForAzureBlobFileUpload\\AzureBlobFileUpload\\AzureBlobFileUpload\\Controllers\\FileUploadController.cs",
+              "RelativeToolTip": "AzureBlobFileUpload\\Controllers\\FileUploadController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAjwEgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:11:47.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileUploadDto.cs",
+              "DocumentMoniker": "C:\\GitHub Repositories\\DotNetCoreAzureBlobFileUpload\\DotNetCoreControllerForAzureBlobFileUpload\\AzureBlobFileUpload\\AzureBlobFileUpload\\Model\\FileUploadDto.cs",
+              "RelativeDocumentMoniker": "AzureBlobFileUpload\\Model\\FileUploadDto.cs",
+              "ToolTip": "C:\\GitHub Repositories\\DotNetCoreAzureBlobFileUpload\\DotNetCoreControllerForAzureBlobFileUpload\\AzureBlobFileUpload\\AzureBlobFileUpload\\Model\\FileUploadDto.cs",
+              "RelativeToolTip": "AzureBlobFileUpload\\Model\\FileUploadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:40:00.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

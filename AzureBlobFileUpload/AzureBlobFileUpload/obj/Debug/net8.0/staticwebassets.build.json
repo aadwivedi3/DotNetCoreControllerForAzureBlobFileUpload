@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4tuhGaGktl4T+lJIlwCiU7j0bb+HUOLsNAU4jKXt90w=",
+  "Source": "AzureBlobFileUpload",
+  "BasePath": "_content/AzureBlobFileUpload",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

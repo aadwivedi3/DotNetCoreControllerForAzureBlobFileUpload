@@ -1,0 +1,6 @@
+@AzureBlobFileUpload_HostAddress = http://localhost:5102
+
+GET {{AzureBlobFileUpload_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
